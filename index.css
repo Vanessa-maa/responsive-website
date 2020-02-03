@@ -1,0 +1,181 @@
+
+#boxed{
+    background-color:rgb(49, 58, 104);
+    color: #E88A60; 
+    width: 300px;
+    display: inline-block;
+    height: 3500px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;}
+
+h1{
+    font-family: "playlist-script";
+    font-size: 50px;
+    color: coral;
+    display: inline-block;
+    padding-left: 400px;
+    position: absolute;
+    top: 50px;}
+
+ .cover{
+    display: inline-block;
+    padding-left: 400px;
+    position: absolute;
+    top: 200px;}
+
+    
+#paragraph_one{ 
+    padding-left: 650px;
+    width: 1000px;
+    position: absolute;
+    top: 350px;
+    left: 250px;
+    display: block;}
+    
+
+.About{
+    background-color:rgb(49, 58, 104);}
+.Work{
+    background-color:rgb(49, 58, 104);}
+
+.Social{
+    background-color:rgb(49, 58, 104);}
+.Contact{
+    background-color:rgb(49, 58, 104);}
+
+
+h2{
+    font-family: "playlist-script";
+    font-size: 50px;
+    color: coral;
+    display: inline-block;
+    padding-left: 400px;
+    position: absolute;
+    top: 800px;}
+
+.work{
+    display: inline-block;
+    padding-left: 880px;
+    position: absolute;
+    top: 900px;}
+
+#paragraph_two{
+    padding-right:600px;
+    width: 1000px;
+    position: absolute;
+    left: 390px;
+    display: block;
+    top:1050px;}
+    
+.h2smo{
+    font-family: "playlist-script";
+    font-size: 50px;
+    color: coral;
+    display: inline-block;
+    padding-left:5px;
+    position: absolute;
+    top: 2640px;}
+
+
+.Contact_2{
+    font-family: "playlist-script";
+    font-size: 50px;
+    color: coral;
+    display: block;
+    padding-left: 400px;}
+
+.My_Work{
+    height: 500px;
+    widows: 500px;
+    display: inline-block;}
+
+.copilot{
+    display: inline-block;
+    padding-left:1px;
+    position: absolute;
+    top: 1500px;}
+
+#paragraph_three{
+    padding-left: 660px;
+    width: 1000px;
+    position: absolute;
+    top: 1660px;
+    left: 250px;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 16px;}
+
+.Gov{
+    padding-left: 500px;
+    top:2100px;
+    display: inline-block;
+    position: absolute;}
+
+#paragraph_four{
+    padding-right:600px;
+    width: 1000px;
+    position: absolute;
+    left: 390px;
+    display: block;
+    top:2250px;
+    font-size: 16px;
+    color: black;
+    font-family: 'Raleway', sans-serif;}
+
+.smologos{
+    top: 2800px;
+    position: absolute;
+    padding-left: 180px;}
+
+.Contactfooter{
+    font-family: "playlist-script";
+    font-size: 50px;
+    padding-right: 5px;
+    color: coral;
+    display: inline-block;
+    position: absolute;
+    top: 2270px;
+    width: 5000px;}
+
+#paragraph_5{
+    display: inline-block;
+    position: absolute;
+    color: coral;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    top: 1000px;
+    padding-left: 350px;
+    width: 1000px;}
+  
+    .btn{
+        background-color:rgb(69, 81, 134);
+        margin-left: 800px;
+        color: white;
+        padding-left:30px;
+        top: 600px;
+        width: 300px;
+        display: inline-block;
+        height: 50px;
+        left: 100px;
+        position: absolute;}
+
+.buttontop1{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    }
+ #categoryGrid {
+    grid-template-rows: 300px 300px 300px 300px 300px;
+    grid-template-columns: 1fr;}
+
+.btnbottom{
+    background-color:rgb(69, 81, 134);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    top: 2590px;
+    font-size: 16px;
+    height: 50px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 500px;}
